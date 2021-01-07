@@ -2,7 +2,6 @@
 
 ALLOWEBP is a WordPress plugin that allow to upload .webp media files.
 
-<img width="327" alt="Screen Shot 2020-09-12 at 3 11 51 PM" src="https://user-images.githubusercontent.com/1779930/93003158-60290300-f50a-11ea-8ad0-40f414e64786.png">
 
 ## Installation
 
