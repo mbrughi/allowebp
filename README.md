@@ -5,7 +5,7 @@ ALLOWEBP is a WordPress plugin that allow to upload .webp media files.
 
 ## Installation
 
-Download and extract the [zip archive](https://github.com/mbrughi/allowebp/archive/master.zip) to a `allowebp` folder in your WordPress installation `wp-content/plugins`.
+Download and extract the [zip archive](https://github.com/mbrughi/allowebp/archive/main.zip) to a `allowebp` folder in your WordPress installation `wp-content/plugins`.
 
 Alternatively, as a single-file plugin, it can be downloaded directly and placed within the [`mu-plugins` directory](https://codex.wordpress.org/Must_Use_Plugins) of a site.
 
